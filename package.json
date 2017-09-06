@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-rest-twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhuanghuang/nodejs-rest-twitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhuanghuang/nodejs-rest-twitter/issues"
+  },
+  "homepage": "https://github.com/benjaminhuanghuang/nodejs-rest-twitter#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "body-parser":"^1.17.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
